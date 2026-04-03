@@ -163,13 +163,3 @@ Your Name – Project Developer
 
 This project demonstrates how machine learning can be effectively used to predict student performance and assist educational institutions in improving academic success rates.
 
-If you want, cutiee 💖
-👉 I can also make:
-
-Project Report (SPPU format)
-
-Abstract & Conclusion
-
-PPT for viva
-
-Flowchart & System Architecture
